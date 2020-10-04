@@ -10,4 +10,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SHRToolBox.Shared\SHRToolBox.Shared.csproj" />
+  </ItemGroup>
 </Project>
