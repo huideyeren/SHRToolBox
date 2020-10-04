@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHRToolBox", "SHRToolBox\SHRToolBox.csproj", "{9688E7FE-77D6-4304-A46E-8B508AB1CCBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHRToolBox.Client", "SHRToolBox\SHRToolBox.Client.csproj", "{9688E7FE-77D6-4304-A46E-8B508AB1CCBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHRToolBox.Tests", "SHRToolBox.Tests\SHRToolBox.Tests.csproj", "{BCB2B76D-B887-45F2-822C-D9D7413DCBFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHRToolBox.Client.Tests", "SHRToolBox.Tests\SHRToolBox.Client.Tests.csproj", "{BCB2B76D-B887-45F2-822C-D9D7413DCBFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
