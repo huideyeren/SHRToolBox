@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SHRToolBox\SHRToolBox.csproj" />
+    <ProjectReference Include="..\SHRToolBox\SHRToolBox.Client.csproj" />
   </ItemGroup>
 
 </Project>
