@@ -2,6 +2,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'SHRToolBox' " />
   <ItemGroup>
     <PackageReference Include="ElectronNet.API" Version="9.31.2" />
   </ItemGroup>
